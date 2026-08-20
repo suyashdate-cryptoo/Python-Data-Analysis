@@ -84,3 +84,24 @@ Introduces data visualization using Matplotlib to identify trends and patterns i
 - `plt.ylabel()`
 - `plt.grid()`
 - `plt.show()`
+- ---
+## 8. Seaborn Visualization
+
+Demonstrates statistical data visualization using Seaborn for exploratory data analysis.
+
+### Concepts Covered
+
+- Histograms
+- Box Plots
+- Scatter Plots
+- KDE
+- Distribution Analysis
+- Categorical Analysis
+- Relationship Analysis
+
+### Seaborn Functions
+
+- `sns.histplot()`
+- `sns.boxplot()`
+- `sns.scatterplot()`
+- `sns.set_theme()`
